@@ -26,7 +26,7 @@
         {
           "type": "archive",
           "url": "https://sourceforge.net/projects/metronomek/files/Metronomek-0.6.0/metronomek-0.6.0-source.tar.bz2",
-          "sha256": "8cf050a5e532215b1d50479660fc59a140f4010deaadc1afe8ab6a8086530ce6"
+          "sha256": "ed0b0a2846aa2d6c4cfff294ac8e82148fce6d44a6363af7ca63d32557edfc98"
         }
       ],
       "cleanup": [
