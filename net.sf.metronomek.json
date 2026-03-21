@@ -1,12 +1,10 @@
 {
   "app-id": "net.sf.metronomek",
   "runtime": "org.kde.Platform",
-  "runtime-version": "5.15-25.08",
+  "runtime-version": "6.10",
   "sdk": "org.kde.Sdk",
   "command": "metronomek",
-
   "rename-icon": "metronomek",
-
   "finish-args":[
       "--device=dri",
       "--share=ipc",
@@ -27,8 +25,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://sourceforge.net/projects/metronomek/files/Metronomek-0.6.0/metronomek-0.6.0-source.tar.bz2",
-          "sha256": "ed0b0a2846aa2d6c4cfff294ac8e82148fce6d44a6363af7ca63d32557edfc98"
+          "url": "https://sourceforge.net/projects/metronomek/files/Metronomek-0.8.0/metronomek-0.8.0-sources.tar.bz2",
+          "sha256": "deb04dd38d113032b2c1699d3a7749976824500ebaa74cf253780981e8efd9c7"
         }
       ],
       "cleanup": [
